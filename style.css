@@ -1,0 +1,12 @@
+@CHARSET "UTF-8";
+body{
+	background-color:#013adf;
+}
+table{
+	border: 1px dashed #610b5e;
+	border-radius:5px;
+}
+h1{
+	color:#f3f781;
+	font-weight:bold;
+}
